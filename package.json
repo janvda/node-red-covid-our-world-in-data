@@ -1,6 +1,6 @@
 {
     "name": "node-red-covid-our-world-in-data",
-    "description": "A Node-RED Project",
+    "description": "allows to compare % of confirmed cases with respect to total tests over time between 2 countries",
     "version": "0.0.1",
     "dependencies": {
         "node-red-dashboard": "2.21.0"
